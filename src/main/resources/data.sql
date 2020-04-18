@@ -1,0 +1,12 @@
+INSERT into category (description) Values ('American');
+INSERT into category (description) Values ('Italian');
+INSERT into category (description) Values ('Mexican');
+INSERT into category (description) Values ('Fast Food');
+INSERT into unit_of_measure(description) values ('Teaspoon');
+INSERT into unit_of_measure(description) values ('Tablespoon');
+INSERT into unit_of_measure(description) values ('Cup');
+INSERT into unit_of_measure(description) values ('Pinch');
+INSERT into unit_of_measure(description) values ('Ounce');
+INSERT into unit_of_measure(description) values ('Dash');
+INSERT into unit_of_measure(description) values ('Each');
+INSERT into unit_of_measure(description) values ('Pint');
